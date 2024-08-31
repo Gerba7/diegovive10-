@@ -1,0 +1,11 @@
+.container {
+    height: 100%;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--text);
+    color: #fff;
+    padding: 10vh 15vw;
+    justify-content: center;
+    position: relative;
+}
